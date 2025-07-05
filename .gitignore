@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.pyd
+
+# Environment folders
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyTorch and Keras large model files
+*.pt
+*.h5
+*.ckpt
+
+# Media and image output
+media/
+classified_images_output/
+
+# Test outputs
+TEST/
+
+# Logs and debug
+*.log
+
+# VS Code or PyCharm
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Others
+*.bak
